@@ -10,7 +10,6 @@ files {
 	"ui/script.js",
 	"ui/style.css",
 	"ui/crock.ttf",
-	"ui/ter.png",
 }
 
 -- Client Scripts
