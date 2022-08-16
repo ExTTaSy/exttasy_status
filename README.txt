@@ -4,4 +4,4 @@ A status, basic needs system for RedM:VORP Framework
 
 vorp_metabolism-lua
 
-Add ensure exttasy_status after inventory in server.cfg
+Add ensure exttasy_status in server.cfg
